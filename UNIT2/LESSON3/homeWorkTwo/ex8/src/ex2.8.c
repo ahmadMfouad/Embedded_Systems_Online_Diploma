@@ -36,5 +36,4 @@ int main() {
 	else{
 		printf("Please enter a valid operation symbol");
 	}
-	return 0;
 }
